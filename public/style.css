@@ -6,11 +6,11 @@ body{
 
 
 .form-username{
-    display: none; /* this needs to be block */
+    display: block; /* this needs to be block */
 }
 
 .chatroom-container{
-    display: block; /* this needs to be none */
+    display: none; /* this needs to be none */
     height: 100vh;
     width: 100%;
 }
